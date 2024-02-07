@@ -12,4 +12,4 @@
 
 -- SELECT * FROM [Order Details] WHERE Discount > 0;
 
-SELECT * FROM Orders WHERE CustomerID = 'BOTTM' AND Freight > 50;
+-- SELECT * FROM Orders WHERE CustomerID = 'BOTTM' AND Freight > 50;
